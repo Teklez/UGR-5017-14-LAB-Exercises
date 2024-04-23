@@ -45,7 +45,6 @@ class MyHomePage extends StatelessWidget {
                 ),
                 Text(
                   '$state',
-                  style: Theme.of(context).textTheme.headline4,
                 ),
               ],
             );
